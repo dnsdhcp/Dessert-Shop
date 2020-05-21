@@ -31,7 +31,7 @@ p {
 	padding:0!important;
 }
 .banner img{
-	height: 60vh;
+	max-height: 60vh;
 	width: 100vw;
 }
 
