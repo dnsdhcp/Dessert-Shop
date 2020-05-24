@@ -24,16 +24,20 @@ p {
 	padding-right:50px!important; 
 }
 }
+
 .banner {
+	background-color: #F0E5DE;
+
 	margin-top: 76px;
 }
 .banner .container-fluid {
 	padding:0!important;
 }
-.banner img{
+/* .banner img{
 	max-height: 60vh;
-	width: 100vw;
-}
+	width: 100%;
+	margin: auto;
+} */
 
 .title {
 	font-size:20px;
@@ -41,9 +45,8 @@ p {
 }
 
 .title_line {
-	border-color:#ffffff;
+	border-color:#000000;
 	margin-bottom: 50px;
-
 }
 
 .product {
